@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/formula/static/css/main.f6edc987.css",
+    "main.js": "/formula/static/js/main.f4bc0119.js",
+    "static/js/787.856e1621.chunk.js": "/formula/static/js/787.856e1621.chunk.js",
+    "index.html": "/formula/index.html",
+    "main.f6edc987.css.map": "/formula/static/css/main.f6edc987.css.map",
+    "main.f4bc0119.js.map": "/formula/static/js/main.f4bc0119.js.map",
+    "787.856e1621.chunk.js.map": "/formula/static/js/787.856e1621.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6edc987.css",
+    "static/js/main.f4bc0119.js"
+  ]
+}
